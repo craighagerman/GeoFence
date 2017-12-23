@@ -1,4 +1,4 @@
-# Geo_fence Twitter Users
+# Geo Fence Twitter Data
 
 This project was made to try to find 'TorontoJane' - an ISIL sympathizer whose geo-located tweets showed her moving from Toronto to Syria.
 
